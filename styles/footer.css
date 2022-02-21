@@ -1,0 +1,60 @@
+footer{
+	padding-top: 150px;
+
+	display: flex;
+	justify-content: space-evenly;
+	background: #181818;
+	
+}
+.footer1
+{
+  padding-left: 150px;
+}
+.fing
+{
+	font-family: Super;
+	color: white;
+}
+.fing1
+{
+	font-family: Super;
+color: white;
+}
+.fing2
+{
+	font-family: Super;
+color: white;
+}
+.foter
+{
+	font-family: Super;
+	color: white;
+	text-decoration: none;
+}
+.foter:hover
+{
+	color: #0fbfff;
+}
+.s123s
+{
+	position: relative;
+	right: 3%;
+	bottom: 6%;
+ color: white;
+}
+.s122
+{
+	color: white;
+	position: relative;
+	bottom: 5%;
+}
+.footer2
+{
+
+}
+.img4
+{
+
+	position: relative;
+	right: 2%;
+}
